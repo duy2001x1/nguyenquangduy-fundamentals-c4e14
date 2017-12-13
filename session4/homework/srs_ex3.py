@@ -1,5 +1,3 @@
-prime = False
-
 test = int(input("Enter a number to test: "))
 
 if test < 2:
